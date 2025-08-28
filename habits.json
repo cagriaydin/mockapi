@@ -3,120 +3,140 @@
     "id": "1",
     "title": "Drink 8 Glasses of Water",
     "category": "Health",
-    "icon": "💧"
+    "icon": "💧",
+    "description": "Staying hydrated boosts your energy and focus. It also helps your body flush out toxins and maintain healthy skin."
   },
   {
     "id": "2",
     "title": "Read 20 Pages",
     "category": "Learning",
-    "icon": "📚"
+    "icon": "📚",
+    "description": "Reading daily sharpens your mind and builds knowledge. It reduces stress while improving focus and memory."
   },
   {
     "id": "3",
     "title": "Walk 20 Minutes",
     "category": "Fitness",
-    "icon": "🚶"
+    "icon": "🚶",
+    "description": "A short walk improves circulation and boosts your mood. It also supports heart health and relieves stress."
   },
   {
     "id": "4",
     "title": "Meditate 10 Minutes",
     "category": "Mindfulness",
-    "icon": "🧘"
+    "icon": "🧘",
+    "description": "Meditation calms your mind and reduces anxiety. It also improves concentration and emotional balance."
   },
   {
     "id": "5",
     "title": "Write a Journal Entry",
     "category": "Productivity",
-    "icon": "✍️"
+    "icon": "✍️",
+    "description": "Journaling helps clear your mind and process emotions. It also boosts creativity and self-awareness."
   },
   {
     "id": "6",
     "title": "Plan Tomorrow’s Tasks",
     "category": "Productivity",
-    "icon": "🗒️"
+    "icon": "🗒️",
+    "description": "Planning ahead reduces stress and keeps you organized. It also helps you start your day with clarity and focus."
   },
   {
     "id": "7",
     "title": "Stretch for 5 Minutes",
     "category": "Fitness",
-    "icon": "🤸"
+    "icon": "🤸",
+    "description": "Stretching eases muscle tension and improves flexibility. It also boosts circulation and posture."
   },
   {
     "id": "8",
     "title": "Eat 1 Fruit",
     "category": "Nutrition",
-    "icon": "🍎"
+    "icon": "🍎",
+    "description": "Eating fruit gives your body essential vitamins and fiber. It also supports immunity and healthy digestion."
   },
   {
     "id": "9",
     "title": "No Sugar Today",
     "category": "Nutrition",
-    "icon": "🍏"
+    "icon": "🍏",
+    "description": "Avoiding sugar helps stabilize energy and mood. It also supports weight control and better long-term health."
   },
   {
     "id": "10",
     "title": "Practice a Foreign Language",
     "category": "Learning",
-    "icon": "🌍"
+    "icon": "🌍",
+    "description": "Practicing another language sharpens memory and problem-solving. It also opens doors to new cultures and connections."
   },
   {
     "id": "11",
     "title": "Listen to a Podcast",
     "category": "Learning",
-    "icon": "🎧"
+    "icon": "🎧",
+    "description": "Podcasts expand your perspective and teach new skills. They also let you learn while relaxing or multitasking."
   },
   {
     "id": "12",
     "title": "Do 30 Push-ups",
     "category": "Fitness",
-    "icon": "💪"
+    "icon": "💪",
+    "description": "Push-ups strengthen your arms, chest, and core. They also build discipline and endurance with minimal time."
   },
   {
     "id": "13",
     "title": "Floss Your Teeth",
     "category": "Health",
-    "icon": "🦷"
+    "icon": "🦷",
+    "description": "Flossing prevents cavities and gum disease. It also keeps your smile clean and breath fresh."
   },
   {
     "id": "14",
     "title": "Spend 15 Minutes Offline",
     "category": "Mindfulness",
-    "icon": "📵"
+    "icon": "📵",
+    "description": "Taking a break from screens relaxes your eyes and mind. It also improves focus and lowers stress levels."
   },
   {
     "id": "15",
     "title": "Compliment Someone",
     "category": "Social",
-    "icon": "😊"
+    "icon": "😊",
+    "description": "Giving compliments strengthens relationships and spreads positivity. It also boosts your own mood and confidence."
   },
   {
     "id": "16",
     "title": "Clean Up Desk/Room",
     "category": "Productivity",
-    "icon": "🧹"
+    "icon": "🧹",
+    "description": "A tidy space improves focus and reduces stress. It also makes you feel more motivated and in control."
   },
   {
     "id": "17",
     "title": "Cook a Healthy Meal",
     "category": "Nutrition",
-    "icon": "🥗"
+    "icon": "🥗",
+    "description": "Cooking healthy meals nourishes your body with balanced nutrients. It also saves money and builds mindful eating habits."
   },
   {
     "id": "18",
     "title": "Practice Gratitude (3 Things)",
     "category": "Mindfulness",
-    "icon": "🙏"
+    "icon": "🙏",
+    "description": "Gratitude lifts your mood and reduces stress. It also helps you focus on the positives in your life."
   },
   {
     "id": "19",
     "title": "Go to Bed Before 23:00",
     "category": "Health",
-    "icon": "🛌"
+    "icon": "🛌",
+    "description": "Sleeping early restores energy and improves productivity. It also supports immune function and mental health."
   },
   {
     "id": "20",
     "title": "Avoid Junk Food",
     "category": "Nutrition",
-    "icon": "🍔"
+    "icon": "🍔",
+    "description": "Skipping junk food helps maintain steady energy and weight. It also lowers risk of heart disease and diabetes."
   }
 ]
